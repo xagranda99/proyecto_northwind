@@ -1,0 +1,24 @@
+[18:52:50-Feb-28-2022]: ETL Trabajo iniciado.
+[18:52:50-Feb-28-2022]: --------------------------------------------------------
+[18:52:50-Feb-28-2022]: Inicia Fase De Extraccion
+[18:52:50-Feb-28-2022]: Finaliza Fase De Extraccion
+[18:52:50-Feb-28-2022]: --------------------------------------------------------
+[18:52:50-Feb-28-2022]: -------------------------------------------------------------
+[18:52:50-Feb-28-2022]: Inicia Fase De Transformacion
+[18:52:59-Feb-28-2022]: Finaliza Fase De Transformacion
+[18:52:59-Feb-28-2022]: -------------------------------------------------------------
+[18:53:00-Feb-28-2022]: -------------------------------------------------------------
+[18:53:00-Feb-28-2022]: Inicia Fase De Carga
+[18:53:00-Feb-28-2022]: Carga de datos a dim_customer
+[18:53:00-Feb-28-2022]: Carga de datos a dim_employee
+[18:53:00-Feb-28-2022]: Carga de datos a dim_location
+[18:53:00-Feb-28-2022]: Carga de datos a dim_supplier
+[18:53:00-Feb-28-2022]: Carga de datos a dim_category
+[18:53:00-Feb-28-2022]: Carga de datos a dim_product
+[18:53:00-Feb-28-2022]: Carga de datos a dim_shipper
+[18:54:13-Feb-28-2022]: Carga de datos a fact_orders
+[18:54:13-Feb-28-2022]: Carga de datos a dim_emp_territories
+[18:54:13-Feb-28-2022]: Carga de datos a dim_emp_region
+[18:54:13-Feb-28-2022]: Finaliza Fase De Carga
+[18:54:13-Feb-28-2022]: -------------------------------------------------------------
+[18:54:13-Feb-28-2022]: ETL Trabajo finalizado.
